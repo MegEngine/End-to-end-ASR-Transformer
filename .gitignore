@@ -1,0 +1,17 @@
+train_log
+train_log_*
+__pycache__
+.epoch
+*.png
+*.jpg
+epoch_*
+epoch-*
+*.log
+*.npy
+*.wav
+rrun_log
+runs
+training
+checkpoints
+decode
+checkpoint*
