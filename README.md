@@ -1,5 +1,5 @@
 # END TO END ASR TRANSFORMER
-* 本项目基于transformer 6*encopder+6*decoder的基本结构构造的端到端的语音识别系统
+* 本项目基于transformer 6\*encoder+6\*decoder的基本结构构造的端到端的语音识别系统
 
 ## Model
 
@@ -29,6 +29,6 @@
 
 ## Reference
 * Ashish Vaswani et al. “[Attention Is All You Need](https://arxiv.org/abs/1706.03762)”  (2017). 
-* Abdel-rahman Mohamed et al. “[Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660)” arXiv: Computation and Language (2019): n. pag.
+* Abdel-rahman Mohamed et al. “[Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660)” arXiv: Computation and Language (2019).
 * Albert Zeyer et al. “Improved Training of End-to-end Attention Models for Speech Recognition” Conference of the International Speech Communication Association (2018).
 
